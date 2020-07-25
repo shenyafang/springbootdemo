@@ -12,5 +12,7 @@ public class HelloController {
         System.out.println();
 
         return "hello,this is a springboot demo";
+
+
     }
 }
